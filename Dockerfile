@@ -2,7 +2,7 @@ FROM alpine:3.8
 MAINTAINER FAN VINGA<fanalcest@gmail.com>
 
 ENV NODE_ID=0                     \
-    SPEEDTEST=6                   \
+    SPEEDTEST=0                   \
     CLOUDSAFE=0                   \
     AUTOEXEC=0                    \
     ANTISSATTACK=0                \
